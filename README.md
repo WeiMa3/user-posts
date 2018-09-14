@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshots
 
-![users](https://github.com/WeiMa3/user-posts/blob/master/screenshots/1.jpg)
+![users](https://github.com/WeiMa3/user-posts/blob/master/screenshots/1.png)
 
-![user details](https://github.com/WeiMa3/user-posts/blob/master/screenshots/2.jpg)
+![user details](https://github.com/WeiMa3/user-posts/blob/master/screenshots/2.png)
 
-![posts](https://github.com/WeiMa3/user-posts/blob/master/screenshots/3.jpg)
+![posts](https://github.com/WeiMa3/user-posts/blob/master/screenshots/3.png)
